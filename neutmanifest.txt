@@ -1,0 +1,1 @@
+Main-Class: kleyba.genetic.neutralGraphColoring.NeutralGraphColoringTest

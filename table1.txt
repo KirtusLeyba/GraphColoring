@@ -1,0 +1,19 @@
+#standard
+ Graph | maxFitness | generation achieved | Correct
+ 2-Insertions_3| 1.0 | 53 | Yes
+ hard-graph-4-7-2| 0.9706745111037455 | 499 | No
+ jean | 1.0 | 397 | Yes
+ le450_5a | 0.9056702835141757 | 487 | No
+ myciel3 | 1.0 | 1 | Yes
+ queen5_5 | 1.0 | 234 | Yes
+
+
+#balanced
+ Graph | maxFitness | generation achieved | Correct
+
+ 2-Insertions_3| 0.9957735754825762 | 78 | Yes
+ hard-graph-4-7-2| 0.9516216934057214 | 488 | No
+ jean | 0.9701899736292292 | 387 | No
+ le450_5a | 0.8963020002851997 | 497 | No
+ myciel3 | 0.9441978006966735 | 1 | Yes
+ queen5_5 | 0.9187500000000003 | 99 | No

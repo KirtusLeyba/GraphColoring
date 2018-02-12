@@ -1,0 +1,1 @@
+## Calculates the neutrality of graph coloring solutions
